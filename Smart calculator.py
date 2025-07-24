@@ -8,7 +8,7 @@ def calculator():
         op = input("\nEnter operation (+, -, *, /, ^, sqrt, !, exit): ").strip()
 
         if op == 'exit':
-            print("👋 Goodbye!")
+            print(" Goodbye!")
             break
 
         # For operations that need 2 numbers
